@@ -18,6 +18,7 @@ import Platform from './apis/Platform';
 import StyleSheet from './apis/StyleSheet';
 import UIManager from './apis/UIManager';
 import Vibration from './apis/Vibration';
+import NavigationExperimental from './apis/NavigationExperimental';
 
 // components
 import ActivityIndicator from './components/ActivityIndicator';
